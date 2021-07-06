@@ -1,0 +1,19 @@
+.ab-support-chat {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+
+.ab-chat_type-a-message {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ab-chat_message_support {
+    color: green;
+}
+
+.ab-chat_message_visitor {
+    color: brown;
+    font-weight: bold;
+}
